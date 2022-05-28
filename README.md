@@ -1,5 +1,9 @@
 
-修改`_worker.js`中的`url.hostname="example.com"`中的`example.com`为你需要反代的网址
+### 修改`_worker.js`中的`url.hostname="example.com"`中的`example.com`为你需要反代的网址
+
+### 其他形式的pages代码，以及相关操作教程，请关注：
+
+### 请勿fork,直接点击`Use this template`创建模板，具体操作如下
 
 
 ![ce078c09077094baa84ada792bbe8f9](https://user-images.githubusercontent.com/90416692/170820747-e06b4981-bceb-4ecb-93ab-dc3916ba94bb.png)
