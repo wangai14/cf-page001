@@ -3,7 +3,7 @@
 
 ### 其他形式的pages代码，以及相关操作教程，请关注：
 
-### 请勿fork,直接点击`Use this template`创建模板，具体操作如下
+### 可直接下载自己创建私有项目，请勿fork，也可以直接点击`Use this template`创建模板，具体操作如下
 
 
 ![ce078c09077094baa84ada792bbe8f9](https://user-images.githubusercontent.com/90416692/170820747-e06b4981-bceb-4ecb-93ab-dc3916ba94bb.png)
