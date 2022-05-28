@@ -1,7 +1,7 @@
 
 ### 修改`_worker.js`中的`url.hostname="example.com"`中的`example.com`为你需要反代的网址
 
-### 其他形式的pages代码，以及相关操作教程，请关注：
+### 其他形式的pages代码，以及相关操作拓展教程，请关注：
 
 ### 可直接下载自己创建私有项目，请勿fork，也可以直接点击`Use this template`创建模板，具体操作如下
 
